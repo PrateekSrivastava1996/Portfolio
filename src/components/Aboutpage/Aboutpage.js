@@ -22,17 +22,24 @@ function Aboutpage () {
               <Row>
                 <h3>Skills</h3>
                 <Col md={7}>
-                  <li>HTML5/CSS3</li>
-                  <li>JavaScript</li>
-                  <li>jQuery</li>
-                  <li>Bootsrap 5</li>
+                  <ul>
+                    <li>HTML5/CSS3</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>Bootsrap 5</li>
+                    <li>React-Bootsrap</li>
+                    <li>Material-ui</li>
+                  </ul>
                 </Col>
                 <Col md={5}>
-                  <li>React Js</li>
-                  <li>Redux Js</li>
-                  <li>React-Bootsrap</li>
-                  <li>Material-ui</li>
-                  <li>Git/Github</li>
+                  <ul>
+                    <li>Mongo DB</li>
+                    <li>Express Js</li>
+                    <li>React Js</li>
+                    <li>Node Js</li>
+                    <li>React Redux</li>
+                    <li>Git/Github</li>
+                  </ul>
                 </Col>
               </Row>
             </ul>

@@ -70,7 +70,7 @@
   transform: rotate(-135deg) !important;
   opacity: 0.9 !important;
 }
-.logo{
+.logo {
   background-image: url(https://w7.pngwing.com/pngs/207/458/png-transparent-photoshop-cc-logo-thumbnail.png);
   background-size: cover;
   width: 90px;
@@ -184,7 +184,7 @@
   }
 }
 .Typewriter__wrapper {
-  font-size: 2.0em !important;
+  font-size: 2em !important;
   color: #191919 !important;
   font-weight: 600 !important;
   letter-spacing: 1px !important;
@@ -201,7 +201,7 @@
   letter-spacing: 1px !important;
 }
 .nametext {
-  font-size: 2.0em !important;
+  font-size: 2em !important;
   color: #191919 !important;
   font-weight: 600 !important;
   letter-spacing: 1px !important;
@@ -325,7 +325,7 @@
 .webimage {
   max-width: 500px;
   height: 350px;
-  background-image: url(../Assets/web-removebg-preview.png);
+  background-image: url(../Assets/Web-designer-1024x821.webp);
   background-size: cover;
   background-position: center;
 }
@@ -413,7 +413,7 @@
 }
 
 @media (max-width: 767px) {
-  .project-section{
+  .project-section {
     padding-top: 40px !important;
   }
 }
@@ -466,7 +466,7 @@
   font-size: 12px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.copyright span{
+.copyright span {
   font-weight: 700;
   letter-spacing: 1px;
 }
